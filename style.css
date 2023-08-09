@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: 'hora';
+    src: url(Adventure\ Time.ttf);
+}
+header h1{
+    background-image: url(https://i.gifer.com/5K0f.gif);
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -181px;
+    text-align: center;
+    padding-top: 170px;
+    color: black;
+    text-shadow: 3px 3px 0px rgba(103, 102, 102, 0.429);
+    font-family: 'hora';
+    
+}
+#naosei{
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: 'hora';
+}
+#banana{
+    font-family: 'hora';
+    margin-left: 20px;
+}
+aside{
+    width: 50%;
+    padding-left: 200px;
+    float: left;
+}
+article{
+    width: 50%;
+    float: left;
+}
+
+iframe{
+    float: right;
+    width: 100%;
+}
